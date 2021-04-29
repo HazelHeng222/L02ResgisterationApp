@@ -53,7 +53,7 @@
             android:layout_weight="1"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="@string/txt_F_name"
+            android:hint="@string/txt_F_name"
             android:textAppearance="@style/TextAppearance.AppCompat.Small" />
 
         <EditText
@@ -63,7 +63,7 @@
             android:layout_weight="1"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="@string/txt_L_name"
+            android:hint="@string/txt_L_name"
             android:textAppearance="@style/TextAppearance.AppCompat.Small" />
 
 
