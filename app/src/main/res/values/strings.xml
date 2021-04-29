@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">L02 Resgisteration App</string>
+    <string name="but_login">Login</string>
+    <string name="but_cancel">Cancel</string>
+    <string name="txt_pass">Password</string>
+    <string name="txt_name">Name</string>
+
+
+
+    <string name="txt_Full_name">Full Name</string>
+    <string name="txt_F_name">First Name</string>
+    <string name="txt_L_name">Last Name</string>
+    <string name="txt_gen">Gender</string>
+    <string name="txt_male">Male</string>
+    <string name="txt_Fmale">Female</string>
+    <string name="RegisterForm">Registration Form</string>
+    <string name="wel">Welcome to Adventure Learning Club!</string>
+    <string name="Stud_id">Student ID</string>
+    <string name="sch">School</string>
+    <string name="email">Email</string>
+    <string name="ph">Phone</string>
+    <string name="but_reg">Register</string>
+
+
+</resources>
